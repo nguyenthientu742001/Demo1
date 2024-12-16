@@ -1,0 +1,3 @@
+C:/Users/NGUYEN THIEN TU/Desktop/Game/WordGame/cmake-build-debug/CMakeFiles/WordGame.dir
+C:/Users/NGUYEN THIEN TU/Desktop/Game/WordGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NGUYEN THIEN TU/Desktop/Game/WordGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
