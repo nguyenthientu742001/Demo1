@@ -1,0 +1,10 @@
+red
+black
+arm
+leg
+cow
+car
+dog
+lion
+bird
+fish
