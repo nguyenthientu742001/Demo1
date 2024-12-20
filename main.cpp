@@ -45,7 +45,7 @@ int main() {
     cout << "Please enter user name:";
     getline(cin, userName);
 
-
+    cout << "Please choose the level of difficulty \n";
     cout << "1. Easy \n2. Medium \n3. Hard\n";
     cout << "Please enter the level:";
     cin >> userChoice;
@@ -56,6 +56,8 @@ int main() {
 
 
     choose_game(userChoice, easyWord, mediumWord,hardWord);
+
+    // mlem mlem
 
 
 
